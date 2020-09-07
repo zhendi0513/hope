@@ -20,7 +20,7 @@ jsproxy_config({
     'defalut1': {
       label: '第2通道',
       lines: {
-        '222.222.workers.dev': 1,
+        'old-cake-c0da.zhendi0513.workers.dev': 1,
       }
     },
     
@@ -28,7 +28,7 @@ jsproxy_config({
     'defalut2': {
       label: '第3通道',
       lines: {
-        '333.333.workers.dev': 1,
+        'weathered-frog-b5a8.wodemeng0513.workers.dev': 1,
       }
     },
   
@@ -36,7 +36,7 @@ jsproxy_config({
       'defalut3': {
       label: '第4通道',
       lines: {
-        '444.444.workers.dev': 1,
+        'nameless-sunset-e14b.wodemeng0513.workers.dev': 1,
       },
     },
     
