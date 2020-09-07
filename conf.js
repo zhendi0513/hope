@@ -12,7 +12,7 @@ jsproxy_config({
     'defalut': {
       label: '第1通道',
       lines: {
-        '111.111.workers.dev': 1,
+        'frosty-lake-2f03.zhendi0513.workers.dev': 1,
       }
     },
     
